@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/basic-world-map/static/css/main.03dab71e.css",
+    "main.js": "/basic-world-map/static/js/main.91583778.js",
+    "index.html": "/basic-world-map/index.html",
+    "main.03dab71e.css.map": "/basic-world-map/static/css/main.03dab71e.css.map",
+    "main.91583778.js.map": "/basic-world-map/static/js/main.91583778.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03dab71e.css",
+    "static/js/main.91583778.js"
+  ]
+}
